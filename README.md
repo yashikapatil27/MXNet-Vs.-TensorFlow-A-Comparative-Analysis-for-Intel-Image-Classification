@@ -33,7 +33,7 @@ pip install tensorflow mxnet keras numpy matplotlib scikit-learn
 ```
 
 ## Data Preprocessing
-In order to make the data manageable, it is preprocessed in the following manner. Original Dataset - https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+In order to make the data manageable, it is preprocessed in the following manner. Original Dataset - [Kaggle Intel Image Classification Dataset](https://www.kaggle.com/puneet6060/intel-image-classification)
 1. **Reduce the dataset size** to make it manageable for training on standard hardware.
 2. **Organize images** into folders for training and testing, distributed across six classes: `buildings`, `forests`, `glaciers`, `mountains`, `seas`, and `streets`.
 3. **Store preprocessed data** in the `intel_Data` directory.
