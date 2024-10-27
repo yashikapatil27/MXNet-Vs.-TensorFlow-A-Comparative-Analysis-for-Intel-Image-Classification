@@ -9,7 +9,7 @@ This project provides a comparative analysis of MXNet and TensorFlow frameworks,
 ├── main.py # Contains implementations of LeNet, AlexNet, and custom CNN models
 ├── VGG_image_prediction.ipynb # Jupyter notebook for VGG16 image classification using TensorFlow
 ├── VGG_TensorFlow # Folder containing VGG16 implementation in TensorFlow
-├── intel_data # Folder with preprocessed Intel image dataset
+├── intel_data # Folder with Intel image dataset
 └── MTH522_Final_Project_Report.pdf # Project report detailing methodology, results, and analysis
 ```
 
