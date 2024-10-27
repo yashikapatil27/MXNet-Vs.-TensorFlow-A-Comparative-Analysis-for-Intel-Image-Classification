@@ -1,7 +1,5 @@
 # MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification
-Project Work for CIS552 - Advanced Mathematical Statistics, Spring 2024: Comparative analysis of MXNet and TensorFlow frameworks for Intel Image Classification using various CNN architectures.
-
-This project provides a comparative analysis of MXNet and TensorFlow frameworks, including architectures such as LeNet, AlexNet, and VGG16 applied to a dataset sourced from Kaggle.
+Project Work for CIS552 - Advanced Mathematical Statistics, Spring 2024: Comparative analysis of MXNet and TensorFlow frameworks for Intel Image Classification including various CNN architectures such as LeNet, AlexNet, and VGG16 applied to a dataset sourced from Kaggle.
 
 ## Project Structure
 
